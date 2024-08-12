@@ -1,0 +1,8 @@
+.components li{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+.navsub{
+    border-bottom: 2px solid black;
+}
